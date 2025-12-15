@@ -1,0 +1,5 @@
+{
+  "name": "CB portal",
+  "description": "An intelligent portal to compare dispute databases and identify unique anomalies using automated analysis and Gemini intelligence.",
+  "requestFramePermissions": []
+}
